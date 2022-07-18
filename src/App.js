@@ -5,7 +5,7 @@ import { Footer } from "./MyComponents/Footer";
 import React, { useState, useEffect } from 'react';
 import {AddTodo} from "./MyComponents/AddTodo";
 import { About } from "./MyComponents/About";
-import { BrowserRouter as Router, Route,Switch } from "react-router-dom";
+import { BrowserRouter as Router,Route,Switch } from "react-router-dom";
 
 
 function App() {
